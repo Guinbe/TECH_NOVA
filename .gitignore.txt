@@ -1,0 +1,20 @@
+# Fichiers et dossiers Python
+api_server/venv/
+api_server/__pycache__/
+api_server/*.pyc
+
+# Fichiers et dossiers Android Studio
+android_app/.gradle/
+android_app/.idea/
+android_app/build/
+android_app/app/build/
+android_app/*.iml
+android_app/local.properties
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+https://github.com/Evandrill/Tech_Nova.git
+
+git remote add origin https://github.com/Evandrill/Tech_Nova.git
